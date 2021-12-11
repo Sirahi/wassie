@@ -1,6 +1,5 @@
 import * as THREE from 'three';
 import metaversefile from 'metaversefile';
-import { scene } from '../../renderer';
 const { useApp, useScene } = metaversefile;
 
 export default e => {
